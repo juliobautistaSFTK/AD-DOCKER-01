@@ -6,14 +6,14 @@
 [Ver](Instrucciones/Readme_participante.md)
 
 
-# **Ejercicio: Uso de GITHUB, git clone, git pull, git push, git compare, deshacer un merge, borrar un Branch, Action manual y automáticos.**
+# **Ejercicio: Uso de DOCKER, Contenedores, imágenes, levantar, detener, reiniciar respaldar, dockerfile, docker run, volumenes.**
 
 Prerrequisito: Conocimientos básicos en uso de repositorios.
 
 # **Objetivos:**
-1. Uso de comandos básicos.
-2. Uso de branch.
-3. Uso de Actions.
+1. Contenedor para SQL.
+2. Uso de Dockerfile.
+3. Uso de docker-compose.yml.
 
 
 # **Cómo evaluar:**
