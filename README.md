@@ -6,12 +6,12 @@
 [Ver](Instrucciones/Readme_participante.md)
 
 
-# **Ejercicio: Uso de DOCKER, Contenedores, imágenes, levantar, detener, reiniciar respaldar, dockerfile, docker run, volumenes.**
+# **Ejercicio: Uso de DOCKER, Contenedores, imágenes, levantar, detener, reiniciar, respaldar, dockerfile, docker run, volumenes, docker-compose.yml.**
 
 Prerrequisito: Conocimientos básicos en uso de repositorios.
 
 # **Objetivos:**
-1. Contenedor para SQL.
+1. Contenedor para SQL con datos persistentes.
 2. Uso de Dockerfile.
 3. Uso de docker-compose.yml.
 
